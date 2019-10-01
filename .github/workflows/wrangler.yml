@@ -22,5 +22,5 @@ jobs:
         npm install -g @cloudflare/wrangler
         wrangler publish
       env:
-        CF_EMAIL: ${{ secrets.CFEmail }}
-        CF_API_KEY: ${{ secrets.CFApiKey }}
+        CF_EMAIL: ${{ secrets.CF_Email }}
+        CF_API_KEY: ${{ secrets.CF_API_Key }}
