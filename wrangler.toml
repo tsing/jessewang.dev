@@ -3,7 +3,7 @@ name = "jessew-dev"
 type = "webpack"
 route = "jessew.dev/*"
 workers_dev = false
-zone_id = "25a61470e8c44e8144e0b679e6e7f6b0"
+zone_id = "9720cb3a1875ae16702febc26399746e"
 
 [site]
 bucket = "./public"
