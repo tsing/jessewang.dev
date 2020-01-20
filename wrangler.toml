@@ -1,9 +1,9 @@
 account_id = "c26efc71489dac186b85b56a1fbb846c"
-name = "jessew-dev"
+name = "jessewang-dev"
 type = "webpack"
-route = "jessew.dev/*"
+route = "jessewang.dev/*"
 workers_dev = false
-zone_id = "9720cb3a1875ae16702febc26399746e"
+zone_id = "25a61470e8c44e8144e0b679e6e7f6b0"
 
 [site]
 bucket = "./public"
